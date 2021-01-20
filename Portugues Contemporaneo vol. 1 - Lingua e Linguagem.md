@@ -44,7 +44,7 @@ Três elementos centrais: **tema, estilo e forma composicional**.
 
 ---
 
-## O poema
+## O Poema
 
 **Verso**: cada uma das linhas
 
@@ -72,7 +72,7 @@ Três elementos centrais: **tema, estilo e forma composicional**.
 
 * 10 versos: décima
 
-* > 10 versos: estrofe irregular
+* 10+ versos: estrofe irregular
 
 ---
 

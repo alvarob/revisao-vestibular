@@ -119,6 +119,7 @@ Cantiga de **amigo**:
 * **Ambiente popular** (campo, praia, vila)
 
 
+---
 
 #### Satírica
 
